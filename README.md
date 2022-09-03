@@ -4,7 +4,7 @@ PC 게임 가격을 특정 통화로 제공하는 API입니다. [Serverless fram
 
 ### Project Architecture
 
-![architecture](https://user-images.githubusercontent.com/51858583/188250287-e0c460d0-a215-44f7-93bc-3ea17084ad53.png)
+![architecture](https://user-images.githubusercontent.com/51858583/188274489-9ef083b0-e21b-49d5-84a7-329fb14e782f.png)
 
 ### Project structure
 
